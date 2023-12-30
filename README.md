@@ -30,6 +30,7 @@ num_word+=len(word)
 print("number of words ={}".format(num_word))
 ```
 ### OUTPUT:
+![image](https://github.com/Hariniii21/Word-count/assets/147140423/84252cd9-c772-478d-9ba8-cb0f2d58add2)
 
 
 
